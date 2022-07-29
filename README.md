@@ -1,0 +1,4 @@
+- - sobre mim
+- - Olá,meu nome é Rafael.
+- - Moro em Quinta do Sol,Paraná.
+- - Sou aluno da disciplina de Pensamento Computacional.
